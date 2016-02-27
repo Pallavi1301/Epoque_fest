@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.Toolbar
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/toolbar_gradient"
+    android:minHeight="?attr/actionBarSize"
+    android:elevation="4dp"
+    style="@style/Theme.AppCompat.Light.NoActionBar"
+    android:popupTheme="@style/ThemeOverlay.AppCompat.Light"
+    android:title="Epoque'16"
+    android:logo="@drawable/logo_1"
+    android:titleTextColor="#FFFFFF"
+    >
+</android.support.v7.widget.Toolbar>
